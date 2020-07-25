@@ -1,1 +1,1 @@
-# C-workshop
+# DataStructures in C
